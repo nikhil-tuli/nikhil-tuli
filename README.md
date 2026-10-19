@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nikhil
 
-<!--
-**nikhil-tuli/nikhil-tuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Program Manager with ~14 years of experience delivering complex, cross-functional technology programs. Based in Bengaluru.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[technical-trade-signals](https://github.com/nikhil-tuli/technical-trade-signals)**: three NSE stock screeners (candlestick signals, momentum ranking, breakout retests). [Live app](https://technical-trade-signals.streamlit.app/)
+- **[job-search-tool](https://github.com/nikhil-tuli/job-search-tool)**: local job-search tracker that scans public listings in India, filters titles, flags duplicates and tracks application status
+- **[Arbitrage Fund Analyser](https://github.com/Quantifiers-2014/mf-analysis)**: compares Indian mutual funds on returns, costs and tracking, with data-quality checks and AI Q&A
+- **[doc-ocr-pipeline](https://github.com/nikhil-tuli/doc-ocr-pipeline)**: extracts text, tables and key fields from bills and financial reports
+- **[portfolio-analyzer-cli](https://github.com/nikhil-tuli/portfolio-analyzer-cli)**: reads a CDSL holdings statement and summarises equity vs mutual fund exposure
+
+## How I build
+
+I define the problem, rules and requirements, build with AI coding tools and test the results against real data. Each project has a README that explains the logic and its limits.
+
+## Currently exploring
+
+Hands-on building with Python and AI tools, including GenAI and agentic AI, data products and fintech applications.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/tulinikhil/) · [Email](nikhil.tuli1@gmail.com)
