@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil
 
-Technical Program Manager with ~14 years of experience delivering complex, cross-functional technology programs. Based in Bengaluru.
+Technical Program Manager with 10+ years of experience delivering complex, cross-functional technology programs. Based in Bengaluru.
 
 ## What I'm building
 
