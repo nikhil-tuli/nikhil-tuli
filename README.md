@@ -4,11 +4,9 @@ Technical Program Manager with 10+ years of experience delivering complex, cross
 
 ## What I'm building
 
-- **[job-search-tool](https://github.com/nikhil-tuli/job-search-tool)**: scans LinkedIn, Naukri and company career pages, filters roles, tracks application status, scores role fitness, generates tailored resume and cover letter, syncs role status from mailbox, tracks pending follow-ups
+- **[job-search-tool](https://github.com/nikhil-tuli/job-search-tool)**: A local job-search tracker that scans job sources, scores role fit with AI, tailors your resume and cover letter, preps you for interviews, and keeps status and follow-ups up to date from your mailbox
 - **[technical-trade-signals](https://github.com/nikhil-tuli/technical-trade-signals)**: three NSE stock screeners (candlestick signals, momentum ranking, breakout retests). [Live app](https://technical-trade-signals.streamlit.app/)
 - **[Arbitrage Fund Analyser](https://github.com/Quantifiers-2014/mf-analysis)**: compares Indian mutual funds on returns, costs and tracking, with data-quality checks and AI Q&A
-- **[doc-ocr-pipeline](https://github.com/nikhil-tuli/doc-ocr-pipeline)**: extracts text, tables and key fields from bills and financial reports
-- **[portfolio-analyzer-cli](https://github.com/nikhil-tuli/portfolio-analyzer-cli)**: reads a CDSL holdings statement and summarises equity vs mutual fund exposure
 
 ## How I build
 
